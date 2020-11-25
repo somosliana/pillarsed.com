@@ -1,0 +1,5 @@
+[build.environment]
+  RUBY_VERSION = "2.7.1"
+[build]
+  publish = "_site"
+  command = "jekyll build"
