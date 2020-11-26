@@ -5,8 +5,39 @@ backend:
   branch: master # Branch to update (optional; defaults to master)
 media_folder: 'assets/uploads'
 collections:
-  - name: 'blog'
-    label: 'Blog'
-    folder: '_posts/'
+  - name: posts
+    label: Posts
+    label_singular: 'Post'
+    folder: _posts
+    create: true
     fields:
-      - { name: Title }
+      - label: Title
+        name: title
+        widget: string
+      - label: Relation
+        name: relation
+        widget: relation
+        collection: files
+        value_field: authors.*.id
+        search_fields: [authors.*.name] # not really used
+        display_fields: [authors.*.name]
+        file: authors
+  - name: files
+    label: Files
+    label_singular: 'File'
+    files:
+      - label: Authors
+        name: authors
+        file: _data/authors.json
+        fields:
+          - label: Authors
+            name: authors
+            widget: list
+            allow_add: true
+            fields:
+              - label: Name
+                name: name
+                widget: string
+              - label: Id
+                name: id
+                widget: string
