@@ -8,13 +8,14 @@ collections:
   - name: posts
     label: Posts
     label_singular: 'Post'
+    editor: { preview: false }
     folder: _posts
     create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Jekyll Format
     fields:
-      - label: Title
-        name: title
-        widget: string
-      - label: Relation
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "Title", name: "title", widget: "string" }
+      - label: Author
         name: relation
         widget: relation
         collection: files
@@ -22,9 +23,14 @@ collections:
         search_fields: [authors.*.name] # not really used
         display_fields: [authors.*.name]
         file: authors
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Image", name: "image", widget: "image" }
+      - { label: "Date", name: "date", widget: "datetime", dateFormat: "YYYY-MM-DD", format: "YYYY-MM-DD" }
+      - { label: "Body", name: "body", widget: "markdown" }
   - name: files
     label: Files
     label_singular: 'File'
+    editor: { preview: false }
     files:
       - label: Authors
         name: authors
@@ -41,3 +47,9 @@ collections:
               - label: Id
                 name: id
                 widget: string
+              - label: Description
+                name: description
+                widget: string
+              - label: Thumbnail
+                name: thumbnail
+                widget: image
