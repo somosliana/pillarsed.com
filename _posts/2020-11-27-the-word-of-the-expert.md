@@ -2,7 +2,9 @@
 layout: post
 title: The word of the expert
 relation: "3"
-description: Teaching Online Has Become Easier Than We Could Ever Dream
+description: Over the years Cristina Banfi has been a referent for our
+  institution. On this occasion, she kindly shares one of her articles,
+  ‘Teaching Online Has Become Easier Than We Could Ever Dream’*
 image: /assets/uploads/whatsapp-image-2020-04-01-at-17.56.10-1.jpeg
 date: 2020-11-27
 ---
