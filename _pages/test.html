@@ -1,0 +1,5 @@
+{% for post in site.posts %}
+    <h1>{{post.title}}</h1>
+    {% assign author = site.data.authors.authors | find: "id", post.relation %}
+    <h2>Author: {{ author.name }}</h2>
+{% endfor %}
