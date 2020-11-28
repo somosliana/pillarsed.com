@@ -8560,7 +8560,7 @@ header {
   position: relative; }
 
 .slider-text h1 {
-  font-size: 340px;
+  font-size: 300px;
   color: #fff;
   line-height: 1;
   font-weight: 900;
@@ -8582,13 +8582,13 @@ header {
   background-position: center center; }
   @media (max-width: 1199.98px) {
     .slider-text h1 {
-      font-size: 200px; } }
+      font-size: 150px; } }
   @media (max-width: 991.98px) {
     .slider-text h1 {
-      font-size: 150px; } }
+      font-size: 100px; } }
   @media (max-width: 767.98px) {
     .slider-text h1 {
-      font-size: 100px; } }
+      font-size: 75px; } }
 
 .slider-text p {
   font-size: 20px;
