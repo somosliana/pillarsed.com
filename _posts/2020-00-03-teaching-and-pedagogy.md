@@ -5,7 +5,7 @@ relation: "5"
 description: In this article ‘Teaching and not cheating oneself, the best of
   arts’ Fabiola Montoni shares her view on teaching and pedagogy.
 image: /assets/uploads/63740031.jpg
-date: 2020-11-29
+date: 2020-01-03
 ---
 **Teaching and not cheating oneself, the best of arts.**
 

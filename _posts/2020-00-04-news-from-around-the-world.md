@@ -7,7 +7,7 @@ description: All of us such as millions of dedicated educators in the world are
   this coronavirus outbreak. Read about the experience from a teacher in
   Mozambique.
 image: /assets/uploads/mozambique13.jpg
-date: 2020-11-26
+date: 2020-01-04
 ---
 Well, as it's already known all over the world, Mozambique belongs to the group of developing countries. This means that some areas such as agriculture, health, education among several other public and private sectors lack the equipment that could make the country develop rapidly. This is a sad reality and due to all of this, education wouldn't escape to be negatively affected by this global pandemic. For sure, all retreat started right away at the outbreak of this COVID 19 late March this year. Due to lack of equipment in the area of health, the government of Mozambique decided to close almost all public institutions that would be of great risk of contamination in a short period of time. Other institutions adopted a regime of shifts to avoid big gatherings and crowds. One of the measures adopted was social distancing.
 

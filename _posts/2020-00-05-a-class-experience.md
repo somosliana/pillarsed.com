@@ -6,7 +6,7 @@ description: Sabina tells us about a class experience which sought to help
   children acquire language and bring families and children together during
   lockdown.
 image: /assets/uploads/panadero-formando-masa-esfera-sobre-tabla-madera_74855-5658.jpg
-date: 2020-11-27
+date: 2020-01-05
 ---
 As it happened to all teachers at the beginning of this year, teaching online proved to be a challenge, especially when it came to keeping children motivated and finding suitable activities for them to learn and have a good time.
 

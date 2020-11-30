@@ -8,7 +8,7 @@ description: "Marguerite Annie Johnson, known as Maya Angelou, was an American
   metaphor. Can you recall any situations from real life this year that remind
   you of the caged bird? "
 image: /assets/uploads/o-maya-angelou-oprah-master-class-rainbow-facebook.jpg
-date: 2020-11-29
+date: 2020-01-06
 ---
 **Caged Bird**
 
