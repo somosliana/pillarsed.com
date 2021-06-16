@@ -29,6 +29,24 @@
       "id": "5",
       "description": "Fabiola Pabla Montoni Isaac is an experienced teacher working at Public Secondary School, EADEB and ISPRG.",
       "thumbnail": "/assets/uploads/a7c6ca76-88fd-45cb-ad4d-3d0649cf4f85.jpg"
+    },
+    {
+      "name": "Caro Brunela",
+      "id": "6",
+      "thumbnail": "/assets/uploads/caro-brunela.jpg",
+      "description": "Brunela is an English teacher graduated from the School of Languages, National University of Córdoba. She is currently working at secondary and higher education levels. She has also worked at primary and kindergarten institutions. Although she has studied in Córdoba and the UK, all her working experience has taken place in Río Grande, her hometown."
+    },
+    {
+      "name": "Cintia Lazarte",
+      "id": "7",
+      "thumbnail": "/assets/uploads/cintia-lazarte.jpg",
+      "description": "Cintia is an English teacher and translator. She holds a certificate in virtual language teaching and developing eLearning projects from Net-Learning/UTN. She also has a certificate in neuroeducation from Buró Internacional de Neurociencia Cognitive Aplicada.  She is currently working as an independent teacher and teacher trainer and has been in charge of eLearning platforms and teaching for different companies since 2018."
+    },
+    {
+      "name": "Tatiana Rudiander",
+      "id": "8",
+      "thumbnail": "/assets/uploads/tatiana-rudiander.jpg",
+      "description": "Tatiana is a Teacher of English Language and Literature. At the moment she is working as a Cultural Ambassador for the programme Participate Learning. She is teaching Spanish Immersion in 4th grade at the International School at Gregory in Wilmington, North Carolina in the U.S. She used to work as a teacher in primary and secondary school (EADEB-CIERG) as a teacher at UTN and as a teacher and coordinator in the English Teaching Training College at ISPRG."
     }
   ]
 }
