@@ -1,6 +1,6 @@
 ---
 layout: post
-title: No teacher is an island
+title: Teacher development
 relation: "4"
 description: There is a sense in which the title of this is actually not true.
   Paradoxically, although teachers by definition spend their lives in the
@@ -8,9 +8,11 @@ description: There is a sense in which the title of this is actually not true.
   lonely profession. Most teachers face their classes alone and this
   professional isolation is ultimately a barrier to professional development.
 image: /assets/uploads/post-no-teacher-is-an-island.png
-date: 2021-06-16
+date: 2019-01-04
 ---
-[](<>)As professional people, most teachers would accept that our expertise should progressively develop as we continue the occupation. For that development, teachers tend to use a wide variety of strategies, some formal, some informal.
+## No teacher is an island
+
+As professional people, most teachers would accept that our expertise should progressively develop as we continue the occupation. For that development, teachers tend to use a wide variety of strategies, some formal, some informal.
 
 One informal but very effective strategy is discussions with our colleagues on classrooms experiences or problems relating to specific students. This kind of ‘talking shop’ can have a whole range of useful functions, such as assessing useful background information, articulating possible solutions to everyday classroom problems, improving self-esteem, relieving tension and so on. A very different kind of activity, a formal activity is reading or attending courses.
 

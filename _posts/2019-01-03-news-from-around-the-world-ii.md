@@ -1,13 +1,13 @@
 ---
 layout: post
-title: News from around the world
+title: News from around the world II
 relation: "8"
 description: Most people say that living in another country is an experience
   that opens your mind tremendously and changes your life forever. I understood
   what people said and thought that it would be interesting and challenging to
   give it a try! If you never try, you never know…
 image: /assets/uploads/post-news-from-around-the-world.jpg
-date: 2021-06-16
+date: 2019-01-03
 ---
 In August 2019 I applied for a teaching position in the U.S. with the programme Participate Learning. Before that we had had long conversations with my family about the pros and cons of getting out of our comfort zone. It was not an easy decision, as you may imagine. One thing is to move to another place and begin a new life when you are single and you have no children (or pets!). However, starting this type of adventure with a husband, two young children and a dog makes the situation a bit more complex.
 

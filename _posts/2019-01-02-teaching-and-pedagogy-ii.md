@@ -1,14 +1,17 @@
 ---
 layout: post
-title: Teaching With An Imaginative Perspective
+title: Teaching and Pedagogy II
 relation: "6"
 description: "'Because engaging students' imaginations in learning, and
   teachers' imaginations in teaching, is crucial to making knowledge in the
   curriculum vivid and meaningful, we call this new approach Imaginative
   Education (IE).' Kieran Egan"
 image: /assets/uploads/post-teaching-with-an-imaginative-perspective.png
-date: 2021-06-16
+date: 2019-01-02
 ---
+# Teaching With An Imaginative Perspective
+
+
 The Imaginative approach to teaching was developed around 2005 by the Irish educational philosopher Kieran Egan as a continuation of his work in The Educated Mind, and it includes a complete structure of approach, method, procedure and techniques, for which I found it not only perfect, but also gripping. I invite you to become passionate about it just as I did when I read An Imaginative Approach to Teaching.
 
 When I was five, my parents decided to move to another province. They were unemployed and my grandparents had some room in their house for us. I can recall the exact moment when we arrived and they were waiting for us outside, waving their hands. They were so happy that we were there. Dad pulled the car and my sister, who was seven at that time, and I jumped out of the car and run to hug my grandparents. I will forever remember the smell of that arrival. My grandpa had just mowed the lawn, and there was a pile of cut grass next to the entrance door. Mum started crying because she knew we were there for shelter, not for holidays.

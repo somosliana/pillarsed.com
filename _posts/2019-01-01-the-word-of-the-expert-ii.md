@@ -1,15 +1,16 @@
 ---
 layout: post
-title: The true role of technology in the classroom
+title: The word of the expert II
 relation: "7"
-description: "THE WORD OF THE EXPERT Let us give some thought to the following
+description: "Let us give some thought to the following
   questions: Which were your biggest challenges when you started teaching
   online? How do you use videoconference tools? And learning apps? How do your
   students use videoconference tools and other apps? How have you managed to
   develop other abilities in your students apart from language abilities?"
 image: /assets/uploads/post-the-true-role-of-technology-in-the-classroom.jpg
-date: 2021-06-16
+date: 2019-01-01
 ---
+## The true role of technology in the classroom
 There is no doubt that technology in education has come to stay. Remote teaching and learning are redesigning our lessons and a world of apps is out there waiting for us to discover and use them. But what does it mean to include technology in the classroom? Should we use an app just because we like it, because it looks attractive to our students? We need to give technology a pedagogical integration that fosters interaction between content, tools and people.
 
 We should not be misled to think that technology is the important aspect. It can be attractive, disruptive, dynamic, but our focus needs to be on what we can do with technology, keeping in mind that in the world of consumers and creators of digital content, technology is our greatest friend to practice language and at the same time develop a great variety of abilities.

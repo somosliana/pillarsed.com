@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Reading for pleasure
+title: Reading for pleasure II
 relation: "4"
-description: How do you relax? Do you enjoy doing nothing? What is the most
-  enjoyable thing you can imagine? Which is the most common leisure activity
-  among your friends?
-image: /assets/uploads/post-reading-for-pleasure.png
-date: 2021-06-16
+description: "How do you relax? Do you enjoy doing nothing? What is the most enjoyable thing you can imagine? Which is the most common leisure activity among your friends?"
+image: /assets/uploads/post-reading-for-pleasure-2.png
+date: 2019-01-05
 ---
 ## Leisure
 
